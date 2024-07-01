@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: Lx@bbbql.top
-- 😄 Read more about my CSDN: [here]([https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343](https://blog.csdn.net/Gltu_java?spm=1010.2135.3001.5343))
+- 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343](https://blog.csdn.net/Gltu_java?spm=1010.2135.3001.5343)](https://blog.csdn.net/Gltu_java?type=blog)
 
 ![](https://github-readme-stats.vercel.app/api?username=Xiaoheizi2023&show_icons=true&theme=transparent)
 
