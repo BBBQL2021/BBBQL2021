@@ -1,21 +1,18 @@
-## Hi there 👋
+### Hi there 👋,I'm zhe.
 
-<!--
-**Xiaoheizi2023/Xiaoheizi2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to Java/Python.
+- 📫 How to reach me: wisdom_zhe@qq.com
+- 😄 Read more about my CSDN: [here]([https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343](https://blog.csdn.net/Gltu_java?spm=1010.2135.3001.5343))
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=Xiaoheizi2023&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://github-readme-stats.vercel.app/api?username=Xiaoheizi2023e&show_icons=true&theme=transparent)
-![Visitor Count](https://profile-counter.glitch.me/Xiaoheizi2023/count.svg)
+You are my ![Visitor Count](https://profile-counter.glitch.me/Xiaoheizi2023/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+### My Skill Set
+
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaoheizi2023&layout=compact&theme=tokyonight)
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=Xiaoheizi2023&theme=dracula)
 
